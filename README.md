@@ -55,7 +55,7 @@ python infer.py --model cdnnet --backbone resnet_18 --netdepth 4 --in_channels 3
 
 
 
-## 6. Referrences
+## 6. References
 
 1. Li B, Xiao C, Wang L, et al. Dense nested attention network for infrared small target detection[J]. IEEE Transactions on Image Processing, 2022, 32: 1745-1758. [[code]](https://github.com/YeRen123455/Infrared-Small-Target-Detection) 
 
